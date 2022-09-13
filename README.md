@@ -1,7 +1,7 @@
-### Hello People 👋
+### Hello People 😉
 
-- 🌱 I’m currently learning Analise e Desenvolvimento de Sistemas e Programas como JavaScript, Phyton, SQL, PHP end Java.
-- 🤔 I’m looking for help with Linguagens de Programação em Geral.
+- 📚 I’m currently learning Analise e Desenvolvimento de Sistemas e Programas como JavaScript, Phyton, SQL, PHP end Java.
+- 🧐 I’m looking for help with Linguagens de Programação em Geral.
 
 
 ### Evolving Technologies
