@@ -17,14 +17,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>    
 </div>
 
-### My Stats
-
-<div>
-     <a href="https://github.com/diogopolesso">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogopolesso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     </a>      
-</div>
-
 ### Contacts
 
 <div>
