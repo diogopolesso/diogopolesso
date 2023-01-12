@@ -1,6 +1,6 @@
 ### Hello People 😉
 
-- 📚 I’m currently learning Analise e Desenvolvimento de Sistemas e Linguagens como JavaScript, Phyton, MySQL, HTML, CSS, PHP end Java.
+- 📚 I’m currently learning Analise e Desenvolvimento de Sistemas e Linguagens como JavaScript, Phyton, MySQL, HTML, CSS, PHP, Angular, TypeScript end Java.
 - 🧐 I’m looking for help with Linguagens de Programação em Geral.
 
 
@@ -17,6 +17,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>   
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60"/>
+          
 
 
 </div>
