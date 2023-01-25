@@ -2,7 +2,6 @@
 
 - 📚 I'm currently studying Analise e Desenvolvimento de Sistemas.
 - 🤓 knowledge in language JavaScript, HTML, CSS end MySQL.
-- 🧐 I’m looking for help with Linguagens de Programação em Geral.
 
 ****
 
