@@ -4,6 +4,8 @@
 - 🤓 knowledge in language JavaScript, HTML, CSS end MySQL.
 - 🧐 I’m looking for help with Linguagens de Programação em Geral.
 
+****
+
 ### Evolving Technologies
 
 <div>
@@ -20,6 +22,17 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>   
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60"/>  
 </div>
+
+****
+
+<div align="center">
+  <a href="https://github.com/DiogoPolesso">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DiogoPolesso&theme=dracula&show_icons=true"/>
+
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoPolesso&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+      
+****
 
 ### Contacts
 
