@@ -4,6 +4,15 @@
 - 🤓 knowledge in language JavaScript, HTML, CSS end MySQL.
 
 ****
+## Featured Projects:
+
+- <a href="https://diogopolesso.github.io/Site-Pessoal-Responsivo/" color="white">Web Site Pessoal Responsivo
+- <a href="https://diogopolesso.github.io/FormularioIBGE/" color="white">Formulario IBGE
+- <a href="https://diogopolesso.github.io/BarbeariaPolesso/" color="white">Web Site Barbearia Polesso
+- <a href="https://diogopolesso.github.io/Componente-de-Codigo-QR/" color="white">Codigo QRcode
+- <a href="https://diogopolesso.github.io/Menu-Responsivo/" color="white">Menu Bar Responsivo
+
+****
 
 ### Evolving Technologies
 
