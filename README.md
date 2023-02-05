@@ -11,6 +11,7 @@
 - <a href="https://diogopolesso.github.io/BarbeariaPolesso/" color="white">Web Site Barbearia Polesso
 - <a href="https://diogopolesso.github.io/Componente-de-Codigo-QR/" color="white">Codigo QRcode
 - <a href="https://diogopolesso.github.io/Menu-Responsivo/" color="white">Menu Bar Responsivo
+- <a href="https://diogopolesso.github.io/Bateria-Eletronica/" color="white">Bateria Eletrônica
 
 ****
 
