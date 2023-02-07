@@ -13,6 +13,7 @@
 - <a href="https://diogopolesso.github.io/Menu-Responsivo/" color="white">Menu Bar Responsivo
 - <a href="https://diogopolesso.github.io/Bateria-Eletronica/" color="white">Bateria Eletrônica
 - <a href="https://diogopolesso.github.io/Contador/" color="white">Contador
+- <a href="https://diogopolesso.github.io/Tabuada/" color="white">Tabuada
 
 ****
 
