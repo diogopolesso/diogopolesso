@@ -14,6 +14,7 @@
 - <a href="https://diogopolesso.github.io/Bateria-Eletronica/" color="white">Bateria Eletrônica
 - <a href="https://diogopolesso.github.io/Contador/" color="white">Contador
 - <a href="https://diogopolesso.github.io/Tabuada/" color="white">Tabuada
+- <a href="https://analisedenumeros.vercel.app/" color="white">Analise de Números
 - <a href="https://projetowebportifolio.vercel.app/" color="white">Portifolio Web Responsivo
       
 
