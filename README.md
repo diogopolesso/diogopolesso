@@ -18,7 +18,6 @@
 - <a href="https://projetowebportifolio.vercel.app/" color="white">Portifolio Web Responsivo
 - <a href="https://verificaidade.vercel.app/" color="white">Verificador de Idade
 - <a href="https://polessoplus.vercel.app/" color="white">Portifolio Web Polesso+
-- <a href="https://diogopolesso.vercel.app/" color="white">Cartão de Visita Digital
       
 
 ****
