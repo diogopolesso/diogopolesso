@@ -1,7 +1,7 @@
 ### Hello People 😉
 
 - 📚 I'm currently studying Analise e Desenvolvimento de Sistemas.
-- 🤓 knowledge in language JavaScript, HTML, CSS end MySQL.
+- 🤓 knowledge in language JavaScript, Python, Kotlin, HTML, CSS end MySQL.
 
 ****
 ## Featured Projects:
