@@ -33,7 +33,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="60"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60"/>   
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60"/>
@@ -44,12 +43,6 @@
 
 ****
 
-<div align="center">
-  <a href="https://github.com/DiogoPolesso">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=DiogoPolesso&theme=dracula&show_icons=true"/>
-
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoPolesso&layout=compact&langs_count=7&theme=dracula"/>
-</div>
       
 ****
 
