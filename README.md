@@ -3,6 +3,10 @@
 - 📚 I'm currently studying Analise e Desenvolvimento de Sistemas.
 - 🤓 knowledge in language JavaScript, Python, Kotlin, HTML, CSS end MySQL.
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=diogopolesso&color=74818d&style=flat&label=VISITORS" />
+</div>
+
 ****
 ## Featured Projects:
 
