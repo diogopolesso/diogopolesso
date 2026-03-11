@@ -1,4 +1,4 @@
-### Hello People 😉
+### Hello People <img style="display: block; -webkit-user-select: none; margin: auto; background-color: hsl(0, 0%, 90%); width: 50%;" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
 - 📚 I'm currently studying Analise e Desenvolvimento de Sistemas.
 - 🤓 knowledge in language JavaScript, Python, Kotlin, HTML, CSS end MySQL.
